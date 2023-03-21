@@ -1,6 +1,6 @@
 ## Aprendizagem de Java
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-[![Repositório](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)
+[Repositório](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)
 
 > Status do projeto: Em andamento
 
