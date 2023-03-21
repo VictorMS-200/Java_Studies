@@ -1,4 +1,5 @@
 <h1> Aprendizagem de Java </h1>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
 > Status do projeto: Em andamento
 
