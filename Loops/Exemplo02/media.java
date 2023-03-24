@@ -1,4 +1,4 @@
-package Variaveis.Exemplo02;
+package Loops.Exemplo02;
 import java.util.Scanner;
 
 public class media {
