@@ -1,3 +1,5 @@
+package Orientação_a_Objeto.Exemplo02;
+
 public class Exemplo02 {
     public static void main(String[] args) {
         Candidato cand = new Candidato();

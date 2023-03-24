@@ -1,3 +1,4 @@
+package Variaveis.Exemplo02;
 import java.util.Scanner;
 
 public class media {
@@ -15,5 +16,6 @@ public class media {
             Total += num[i];
         }
         System.out.println(Total/4);
+        reader.close();
     }
 }

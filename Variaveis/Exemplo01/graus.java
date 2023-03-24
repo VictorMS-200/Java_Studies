@@ -1,3 +1,4 @@
+package Variaveis.Exemplo01;
 import java.util.Scanner;
 
 public class graus {
@@ -8,5 +9,6 @@ public class graus {
         int temperatura = reader.nextInt();
 
         System.out.println((9*temperatura + 160)/5);
+        reader.close();
     }
 }
