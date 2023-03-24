@@ -9,13 +9,13 @@ public class media {
         Scanner reader = new Scanner(System.in);
         
         for (int i = 0; i < 4; i++) {
-            System.out.println("numero:");
+            System.out.println("Digite um número:");
             num[i] = reader.nextInt();
         }
         for (int i = 0; i < 4; i++) {
             Total += num[i];
         }
-        System.out.println(Total/4);
+        System.out.printf("A média dos valores inputados é: %d", (Total/4));
         reader.close();
     }
 }
