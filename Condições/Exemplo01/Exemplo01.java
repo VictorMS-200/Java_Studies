@@ -1,5 +1,4 @@
 package Condições.Exemplo01;
-
 import java.util.Scanner;
 
 public class Exemplo01 {
