@@ -10,9 +10,10 @@ public class Exemplo04 {
 
         if (num > 0) {
             double raiz = Math.sqrt(num);
-            System.out.println(raiz);
+            System.out.println("Raiz quadrada: " + raiz);
         } else {
-            double pot = 
+            double pot = Math.pow(num, 2);
+            System.out.println("Quadrado: " + pot);
         }
 
         reader.close();
