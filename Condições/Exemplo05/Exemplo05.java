@@ -17,7 +17,8 @@ public class Exemplo05 {
         } else {
             System.out.println("Maior que 65 anos!");
         }
-
+        
+        reader.close();
     }
 
 }
